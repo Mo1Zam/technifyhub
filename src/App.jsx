@@ -1,5 +1,5 @@
-import PrimaryButton from "./components/PrimaryButton";
-import SecondryButton from "./components/SecondryButton";
+import PrimaryButton from "./components/buttons/PrimaryButton";
+import SecondryButton from "./components/buttons/SecondryButton";
 function App() {
   return (
     <>
