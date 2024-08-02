@@ -16,7 +16,7 @@ function App() {
             <h2>That Goes Here</h2>
           </div>
           <div className="flex flex-col uppercase  justify-center gap-2 sm:flex-row sm:gap-4 ">
-            <PrimaryButton name="join now!" className="" />
+            <PrimaryButton name="join now!"/>
             <SecondryButton name="explore" />
           </div>
         </div>

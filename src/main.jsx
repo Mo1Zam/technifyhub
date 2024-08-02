@@ -6,6 +6,8 @@ import Navbar from './components/nav.jsx'
 import AboutUs from "./components/aboutus.jsx";
 import Visitor from './components/visitor.jsx'
 import Explore from './components/explore.jsx'
+import Footer from './components/footer.jsx'
+
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
@@ -15,5 +17,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <AboutUs />
     <Visitor />
     <Explore />
+    <Footer />
   </React.StrictMode>,
 )

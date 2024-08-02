@@ -1,6 +1,6 @@
 export default function AboutUS() {
     return(
-        <div className="bg-violet-500 w-auto mt-20 p-20 text-white">
+        <div className="bg-violet-500 w-auto mt-20 p-10 text-white sm:p-20">
             <div className="flex flex-col gap-4 sm:flex-row-reverse">
                 <div className="flex flex-col gap-2">
                     <h1 className="uppercase text-3xl font-extrabold tracking-widest sm:text-6xl">About Us</h1>
