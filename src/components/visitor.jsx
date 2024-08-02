@@ -15,7 +15,7 @@ export default function Visitor() {
 function VisitorComps({heading,paragraph}) {
     return(
         <div className="text-center">
-            <h1 className="text-7xl font-extrabold">{heading}</h1>
+            <h1 className="text-5xl font-extrabold sm:text-6xl">{heading}</h1>
             <p className="text-2xl font-light uppercase">{paragraph}</p>
         </div>
         
